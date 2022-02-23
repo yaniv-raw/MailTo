@@ -1,2 +1,1 @@
-# MailTo
-JavaScript library to send emails with the mailto schema
+![cover](https://github.com/y4aniv/MailTo/blob/main/cover.png?raw=true)
