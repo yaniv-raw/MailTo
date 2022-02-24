@@ -14,7 +14,7 @@ To install MailTo you can :
 ```js
 <script src="./MailTo.min.js"></script>
 ```
-## Use
+## Usage
 ### Demo
 ```js
 <script src="https://cdn.jsdelivr.net/gh/y4aniv/MailTo/MailTo.min.js"></script>
