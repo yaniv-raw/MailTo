@@ -34,7 +34,7 @@ MailTo.launch(element, () => {
 });
 </script>
 ```
-### Wiki
+### Api
 ```MailTo.launch(element_id, callback)``` Allows you to launch a function when you click on the element
 <br>
 ```MailTo.open(recipient, options)``` Opens a mailto link containing the recipient and the options
